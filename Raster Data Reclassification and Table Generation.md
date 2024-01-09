@@ -67,7 +67,7 @@ def reclassify_and_save_table(raster_path, output_path):
         return output_file  # Return the path where the table is saved
 
 # Directory containing raster files
-directory = r'G:\python\python (1)\python\rasters_files'
+directory = r'G:\python\python (1)\python\raster_files'
 output_directory = rf'G:\python\python (1)\python\output'
 
 # Iterate through all raster files in the directory
